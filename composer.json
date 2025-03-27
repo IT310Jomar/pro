@@ -1,0 +1,11 @@
+{
+    "require": {
+        "mike42/escpos-php": "^4.0",
+        "firebase/php-jwt": "^6.10",
+        "slim/slim": "^4.12",
+        "picqer/php-barcode-generator": "^2.4",
+        "zendframework/zend-barcode": "^2.5",
+        "bacon/bacon-qr-code": "^2.0",
+        "tecnickcom/tcpdf": "^6.7"
+    }
+}
